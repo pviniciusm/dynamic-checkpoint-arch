@@ -1,0 +1,666 @@
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:24:42 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 64.15236185941612
+Average IO rate mb/sec: 64.39015197753906
+ IO rate std deviation: 3.9128853879742453
+    Test exec time sec: 40.965
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:25:42 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 65.919917600103
+Average IO rate mb/sec: 65.92897033691406
+ IO rate std deviation: 0.7719896181657161
+    Test exec time sec: 35.242
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:26:40 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 59.4726449064932
+Average IO rate mb/sec: 62.03298568725586
+ IO rate std deviation: 12.602567292012754
+    Test exec time sec: 34.763
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:27:42 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 63.1786771964462
+Average IO rate mb/sec: 63.80355453491211
+ IO rate std deviation: 6.314238853911562
+    Test exec time sec: 37.737
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:28:42 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 67.04203221160141
+Average IO rate mb/sec: 67.49992370605469
+ IO rate std deviation: 5.559430936080276
+    Test exec time sec: 36.133
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:29:42 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 58.99297154050006
+Average IO rate mb/sec: 59.2622184753418
+ IO rate std deviation: 3.994497980376557
+    Test exec time sec: 35.798
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:30:43 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 62.968884516049684
+Average IO rate mb/sec: 64.03882598876953
+ IO rate std deviation: 8.277561464138824
+    Test exec time sec: 36.359
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:31:40 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 63.241106719367586
+Average IO rate mb/sec: 63.29218673706055
+ IO rate std deviation: 1.7980909999724721
+    Test exec time sec: 33.792
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:32:41 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 66.9106116048092
+Average IO rate mb/sec: 67.28924560546875
+ IO rate std deviation: 5.047499387385254
+    Test exec time sec: 35.797
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:33:41 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 68.55000669433659
+Average IO rate mb/sec: 70.21159362792969
+ IO rate std deviation: 10.80109546273957
+    Test exec time sec: 35.795
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:34:41 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 65.86903383507011
+Average IO rate mb/sec: 69.17388153076172
+ IO rate std deviation: 15.119817445761136
+    Test exec time sec: 36.21
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:35:39 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 66.05599277512579
+Average IO rate mb/sec: 67.57740020751953
+ IO rate std deviation: 10.139676898155543
+    Test exec time sec: 33.76
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:36:44 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 65.21462234110304
+Average IO rate mb/sec: 65.79759216308594
+ IO rate std deviation: 6.193424429603708
+    Test exec time sec: 40.868
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:37:44 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 60.10095081582345
+Average IO rate mb/sec: 61.642066955566406
+ IO rate std deviation: 9.746642320491356
+    Test exec time sec: 35.914
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:38:44 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 54.27753630870349
+Average IO rate mb/sec: 54.309547424316406
+ IO rate std deviation: 1.3183137502325475
+    Test exec time sec: 35.754
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:39:50 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 86.63282571912013
+Average IO rate mb/sec: 92.61481475830078
+ IO rate std deviation: 23.53764009725979
+    Test exec time sec: 42.088
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:40:51 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 63.55511420059583
+Average IO rate mb/sec: 63.72340774536133
+ IO rate std deviation: 3.2747197885351804
+    Test exec time sec: 36.204
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:41:51 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 56.251373324544055
+Average IO rate mb/sec: 56.63591384887695
+ IO rate std deviation: 4.666747897635756
+    Test exec time sec: 36.223
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:42:51 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 60.69946650859514
+Average IO rate mb/sec: 61.26865005493164
+ IO rate std deviation: 5.905334827992403
+    Test exec time sec: 36.25
+
+----- TestDFSIO ----- : write
+           Date & time: Tue Jul 24 12:43:49 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 66.0389526634851
+Average IO rate mb/sec: 67.47486877441406
+ IO rate std deviation: 9.84312963762553
+    Test exec time sec: 33.898
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 16:34:53 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 75.11737089201878
+Average IO rate mb/sec: 77.47085571289062
+ IO rate std deviation: 13.502871926695152
+    Test exec time sec: 42.036
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 16:53:16 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 71.91011235955057
+Average IO rate mb/sec: 73.00004577636719
+ IO rate std deviation: 8.919954163183528
+    Test exec time sec: 42.084
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 16:54:19 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 63.856323272636565
+Average IO rate mb/sec: 64.09766387939453
+ IO rate std deviation: 3.9332483058423366
+    Test exec time sec: 38.841
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 16:55:22 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 74.4186046511628
+Average IO rate mb/sec: 74.69963836669922
+ IO rate std deviation: 4.58190059261526
+    Test exec time sec: 39.067
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 18:44:02 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 62.09071064758671
+Average IO rate mb/sec: 62.162384033203125
+ IO rate std deviation: 2.110792019408399
+    Test exec time sec: 39.731
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 18:45:07 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 65.68313021167415
+Average IO rate mb/sec: 65.79610443115234
+ IO rate std deviation: 2.726297907170989
+    Test exec time sec: 40.873
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 18:46:11 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 55.94405594405595
+Average IO rate mb/sec: 56.46611785888672
+ IO rate std deviation: 5.4294026239140125
+    Test exec time sec: 41.063
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 18:50:48 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 66.81456348688504
+Average IO rate mb/sec: 66.8166732788086
+ IO rate std deviation: 0.37427544562213255
+    Test exec time sec: 40.55
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 19:12:08 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 13.537452737896935
+Average IO rate mb/sec: 13.53748607635498
+ IO rate std deviation: 0.020797223065193535
+    Test exec time sec: 40.889
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 19:13:10 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 61.977968768914174
+Average IO rate mb/sec: 63.68113327026367
+ IO rate std deviation: 10.414382322774465
+    Test exec time sec: 38.065
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 19:14:09 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 51.97441884072683
+Average IO rate mb/sec: 52.09759521484375
+ IO rate std deviation: 2.533225806464872
+    Test exec time sec: 35.596
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 19:15:14 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 58.19504432825642
+Average IO rate mb/sec: 60.074092864990234
+ IO rate std deviation: 10.624613836883881
+    Test exec time sec: 41.114
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 19:35:03 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 65.7675016056519
+Average IO rate mb/sec: 67.3873519897461
+ IO rate std deviation: 10.447855398839668
+    Test exec time sec: 43.276
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 19:36:04 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 60.36312190521104
+Average IO rate mb/sec: 63.40556335449219
+ IO rate std deviation: 13.889110384109467
+    Test exec time sec: 37.482
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 20:37:30 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 63.745019920318725
+Average IO rate mb/sec: 64.91875457763672
+ IO rate std deviation: 8.729139832398813
+    Test exec time sec: 45.855
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 20:38:40 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 59.56258724988367
+Average IO rate mb/sec: 59.573062896728516
+ IO rate std deviation: 0.7901872261864772
+    Test exec time sec: 45.302
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:12:16 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 90.66761112094918
+Average IO rate mb/sec: 98.37895965576172
+ IO rate std deviation: 27.5433114927655
+    Test exec time sec: 244.479
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:17:53 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 63.06195344254218
+Average IO rate mb/sec: 73.80023956298828
+ IO rate std deviation: 28.151181074944073
+    Test exec time sec: 142.113
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:46:34 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 23.169517603403023
+Average IO rate mb/sec: 23.464094161987305
+ IO rate std deviation: 2.6290785839076847
+    Test exec time sec: 63.829
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:47:42 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 56.44361150920516
+Average IO rate mb/sec: 56.63916015625
+ IO rate std deviation: 3.328076536873435
+    Test exec time sec: 41.911
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:48:39 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 18.139946855624448
+Average IO rate mb/sec: 18.140043258666992
+ IO rate std deviation: 0.04192636144433676
+    Test exec time sec: 33.684
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:49:43 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 14.063615887491073
+Average IO rate mb/sec: 14.066803932189941
+ IO rate std deviation: 0.21168769266076815
+    Test exec time sec: 39.699
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:50:40 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 15.76063535061257
+Average IO rate mb/sec: 15.987285614013672
+ IO rate std deviation: 1.903556168997809
+    Test exec time sec: 33.654
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:51:38 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 15.738349932374277
+Average IO rate mb/sec: 15.914230346679688
+ IO rate std deviation: 1.673014947867491
+    Test exec time sec: 33.578
+
+----- TestDFSIO ----- : write
+           Date & time: Wed Jul 25 21:52:42 BRT 2018
+       Number of files: 2
+Total MBytes processed: 512.0
+     Throughput mb/sec: 13.196216397329827
+Average IO rate mb/sec: 13.197627067565918
+ IO rate std deviation: 0.13635671817719106
+    Test exec time sec: 39.49
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:38:56 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 65.99571027883188
+Average IO rate mb/sec: 66.04002380371094
+ IO rate std deviation: 1.7106120265252311
+    Test exec time sec: 26.073
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:39:21 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 62.324711748208166
+Average IO rate mb/sec: 62.46670913696289
+ IO rate std deviation: 2.978371839919743
+    Test exec time sec: 20.408
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:39:52 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 69.25207756232687
+Average IO rate mb/sec: 69.30526733398438
+ IO rate std deviation: 1.9195585224754994
+    Test exec time sec: 25.763
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:40:22 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 73.42143906020559
+Average IO rate mb/sec: 73.42865753173828
+ IO rate std deviation: 0.7274119099210447
+    Test exec time sec: 25.504
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:40:50 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 70.13852358407856
+Average IO rate mb/sec: 70.14059448242188
+ IO rate std deviation: 0.3816260800181574
+    Test exec time sec: 24.284
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:44:38 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 71.21239095602635
+Average IO rate mb/sec: 71.21548461914062
+ IO rate std deviation: 0.46902541076691123
+    Test exec time sec: 25.886
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:45:03 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 72.5689404934688
+Average IO rate mb/sec: 74.1625747680664
+ IO rate std deviation: 10.871425591704154
+    Test exec time sec: 21.694
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:45:32 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 59.38242280285036
+Average IO rate mb/sec: 59.403873443603516
+ IO rate std deviation: 1.1288499981007194
+    Test exec time sec: 24.357
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:45:57 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 65.80029610133245
+Average IO rate mb/sec: 65.8318099975586
+ IO rate std deviation: 1.4401943038508327
+    Test exec time sec: 20.757
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:46:25 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 66.87844841999666
+Average IO rate mb/sec: 66.92938232421875
+ IO rate std deviation: 1.8464673987928284
+    Test exec time sec: 24.694
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:52:46 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 62.86342920006286
+Average IO rate mb/sec: 62.937984466552734
+ IO rate std deviation: 2.1661466631074915
+    Test exec time sec: 25.813
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:53:15 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 64.79831524380366
+Average IO rate mb/sec: 64.82662200927734
+ IO rate std deviation: 1.354714265547642
+    Test exec time sec: 24.458
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:53:43 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 45.70906182150611
+Average IO rate mb/sec: 45.71073913574219
+ IO rate std deviation: 0.27688898114149174
+    Test exec time sec: 24.361
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:54:09 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 72.76696379843551
+Average IO rate mb/sec: 73.58332824707031
+ IO rate std deviation: 7.7505768045129555
+    Test exec time sec: 21.771
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 11:54:36 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 71.39032661074424
+Average IO rate mb/sec: 71.68791961669922
+ IO rate std deviation: 4.618808500811799
+    Test exec time sec: 23.276
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 12:21:21 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 79.84031936127745
+Average IO rate mb/sec: 79.96022033691406
+ IO rate std deviation: 3.096176384414294
+    Test exec time sec: 22.476
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 12:21:50 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 34.617048896581565
+Average IO rate mb/sec: 34.61820983886719
+ IO rate std deviation: 0.20151209013743088
+    Test exec time sec: 25.41
+
+----- TestDFSIO ----- : write
+           Date & time: Thu Sep 27 12:22:17 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 60.087126333183114
+Average IO rate mb/sec: 60.08772659301758
+ IO rate std deviation: 0.18886376940311558
+    Test exec time sec: 22.452
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 12:33:26 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 72.04610951008645
+Average IO rate mb/sec: 72.12361145019531
+ IO rate std deviation: 2.3643064138887775
+    Test exec time sec: 125.042
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 12:52:02 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 66.30200563567048
+Average IO rate mb/sec: 66.49736785888672
+ IO rate std deviation: 3.6041926361738166
+    Test exec time sec: 33.523
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 12:52:43 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 55.180024831011174
+Average IO rate mb/sec: 55.24625778198242
+ IO rate std deviation: 1.913006752927624
+    Test exec time sec: 36.08
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 12:56:04 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 56.29838142153413
+Average IO rate mb/sec: 56.46073532104492
+ IO rate std deviation: 3.027674407760911
+    Test exec time sec: 40.676
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 12:59:27 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 53.05743467303356
+Average IO rate mb/sec: 53.22499084472656
+ IO rate std deviation: 2.9864207596676
+    Test exec time sec: 34.968
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 13:01:46 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 88.98776418242491
+Average IO rate mb/sec: 89.97564697265625
+ IO rate std deviation: 9.427930925682167
+    Test exec time sec: 37.028
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 13:26:26 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 15.912164850027846
+Average IO rate mb/sec: 15.912200927734375
+ IO rate std deviation: 0.02433319048738901
+    Test exec time sec: 32.709
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 13:28:51 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 97.46588693957115
+Average IO rate mb/sec: 97.90870666503906
+ IO rate std deviation: 6.5845168618764625
+    Test exec time sec: 139.758
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 14:04:10 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 34.40564252537416
+Average IO rate mb/sec: 34.89444351196289
+ IO rate std deviation: 4.129954349376144
+    Test exec time sec: 48.29
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 14:04:56 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 34.12678099138299
+Average IO rate mb/sec: 34.134742736816406
+ IO rate std deviation: 0.5212781114574059
+    Test exec time sec: 39.216
+
+----- TestDFSIO ----- : write
+           Date & time: Fri Sep 28 14:05:41 BRT 2018
+       Number of files: 2
+Total MBytes processed: 400.0
+     Throughput mb/sec: 31.06313582356139
+Average IO rate mb/sec: 31.113679885864258
+ IO rate std deviation: 1.2540055490296504
+    Test exec time sec: 38.862
+
